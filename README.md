@@ -8,11 +8,11 @@
 
 #### Dotnet Full Stack Developer - React.js_.Net
 
- I’m a .NET Full-Stack Developer focused on building scalable and secure web applications from concept to deployment. I bring strong backend expertise in ASP.NET Core along with modern frontend development using React.js and Bootstrap to create efficient and user-friendly solutions. I use tools like Entity Framework Core and Dapper to ensure high-performance data access, while designing responsive interfaces with React, Redux, Tailwind CSS, and Bootstrap.
+I am a .NET Full-Stack Developer committed to engineering scalable and secure web applications from concept to deployment. My approach combines a strong backend foundation in ASP.NET Core with modern frontend development using React.js. I strategically leverage tools like Entity Framework Core and Dapper to ensure data access is both efficient and performant, while building intuitive interfaces with React, Redux, Bootstrap and Tailwind CSS.
 
-I prioritize application security through JWT authentication, work with SQL Server for reliable data management, and maintain code quality using Git, GitHub Actions, and clear API documentation.
+My project experience includes developing complex systems like multi-vendor marketplaces and booking platforms, where I've integrated essential capabilities such as real-time chat with SignalR, payment processing, and cloud services. I ensure application security through JWT authentication, maintain robust databases with SQL Server, and uphold development quality with Git, GitHub Actions, and clear API documentation.
 
-I enjoy working in collaborative environments and contributing to solutions that solve real-world problems. My experience with agile practices has helped me stay organized, manage time effectively, and deliver consistent results. I’m looking for an opportunity where I can apply my skills, grow professionally, and add value to a forward-thinking team.
+I thrive on the collaborative energy of building software that solves tangible problems. Working in agile teams has honed my time management and technical execution. I'm actively looking for an opportunity to channel this experience into a role where I can quickly add value and grow with a forward-thinking company.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
